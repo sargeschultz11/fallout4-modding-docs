@@ -1,7 +1,6 @@
 
 ---
 title: Contributing
-layout: default
 ---
 
 # Contributing to Fallout 4 Modding Documentation Hub
