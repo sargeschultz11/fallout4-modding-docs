@@ -4,6 +4,9 @@ title: Welcome to Fallout 4 Modding Docs
 
 # Fallout 4 Modding Documentation Hub
 
+![Fallout 4 Logo](assets/images/fallout4_logo.png)
+
+
 Welcome to the **Fallout 4 Modding Documentation Hub**.  
 
 ## Why You’re Here  
