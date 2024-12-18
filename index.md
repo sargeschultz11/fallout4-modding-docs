@@ -6,8 +6,6 @@ title: Welcome to Fallout 4 Modding Docs
 
 Welcome to the **Fallout 4 Modding Documentation Hub**.  
 
-This is a clean test of the Hacker theme.
-
 ## Why You’re Here  
 - To mod Fallout 4.  
 - To get resources. 
