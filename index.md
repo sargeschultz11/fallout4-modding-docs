@@ -10,7 +10,7 @@ This is a clean test of the Hacker theme.
 
 ## Why You’re Here  
 - To mod Fallout 4.  
-- To get resources.  
+- [To get resources.](/docs/scripting.md)  
 - To make your game *awesome*.  
 
 ### [**Test Page**](/test-page.md)
