@@ -5,7 +5,7 @@ baseurl: ""  # Leave this blank for the root
 url: "https://sargeschultz11.github.io"  # Replace with your GitHub Pages URL
 
 # Build Settings
-theme: cayman  # Use the 'minima' Jekyll theme. Change to your desired theme
+theme: jekyll-theme-slate  # Use the 'minima' Jekyll theme. Change to your desired theme
 markdown: kramdown  # Markdown parser
 plugins:
   - jekyll-feed
