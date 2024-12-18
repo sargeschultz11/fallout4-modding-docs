@@ -13,5 +13,7 @@ This is a clean test of the Hacker theme.
 - To get resources.  
 - To make your game *awesome*.  
 
+### [**Test Page**](/test-page.md)
+
 ---
 Published with [GitHub Pages](https://pages.github.com).
