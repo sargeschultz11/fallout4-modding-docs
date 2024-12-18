@@ -2,7 +2,7 @@
 title: Fallout 4 Modding Documentation Hub
 description: A comprehensive hub for Fallout 4 modding resources, tools, and guides.
 baseurl: ""  # Leave this blank for the root
-url: "https://sargeschultz11.github.io"  # Replace with your GitHub Pages URL
+url: "https://sargeschultz11.github.io/fallout4-modding-docs"  # Replace with your GitHub Pages URL
 
 # Build Settings
 remote_theme: pages-themes/hacker@v0.2.0
