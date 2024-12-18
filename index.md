@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pages-themes/hacker@v0.2.0/assets/css/style.css">
+</head>
+
 # Fallout 4 Modding Documentation Hub
 
 Welcome to the ultimate hub for **Fallout 4 modding** resources and guides.
