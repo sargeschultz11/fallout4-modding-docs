@@ -5,11 +5,12 @@ baseurl: ""  # Leave this blank for the root
 url: "https://sargeschultz11.github.io"  # Replace with your GitHub Pages URL
 
 # Build Settings
-theme: jekyll-theme-hacker  # Use the 'minima' Jekyll theme. Change to your desired theme
+remote_theme: pages-themes/hacker@v0.2.0
 markdown: kramdown  # Markdown parser
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Navigation Links (Optional)
 nav:
