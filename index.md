@@ -18,7 +18,7 @@ Welcome to the **Fallout 4 Modding Documentation Hub**.
 - [Scripting](./docs/scripting)
 - [FAQ](./docs/faq)
 - [Test Page](./test-page)
-- [Contributing](./contributing)
+- [Contributing](./docs/contributing)
 
 ---
 Published with [GitHub Pages](https://pages.github.com).
