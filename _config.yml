@@ -1,34 +1,5 @@
-# Site Settings
 title: Fallout 4 Modding Documentation Hub
-description: A comprehensive hub for Fallout 4 modding resources, tools, and guides.
-baseurl: ""  # Leave this blank for the root
-url: "https://sargeschultz11.github.io/fallout4-modding-docs"  # Replace with your GitHub Pages URL
-
-# Build Settings
+description: A hub for Fallout 4 modding resources, tools, and guides.
 remote_theme: pages-themes/hacker@v0.2.0
-markdown: kramdown  # Markdown parser
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-remote-theme
-
-# Navigation Links (Optional)
-nav:
-  - title: Home
-    url: /
-  - title: Getting Started
-    url: /docs/getting-started
-  - title: Modding Tools
-    url: /docs/modding-tools
-  - title: Scripting
-    url: /docs/scripting
-  - title: FAQ
-    url: /docs/faq
-
-# Exclude files from build
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  
